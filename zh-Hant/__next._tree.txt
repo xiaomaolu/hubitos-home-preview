@@ -4,8 +4,8 @@
 :HL["/hubitos-home-preview/_next/static/css/e0a66a61f3e078b8.css","style"]
 :HL["/hubitos-home-preview/_next/static/css/72400636f6f495a5.css","style"]
 :HL["/hubitos-home-preview/_next/static/css/67303ab4996c847a.css","style"]
-:HL["/hubitos-home-preview/_next/static/css/dd6db6c5cd2c7d0d.css","style"]
+:HL["/hubitos-home-preview/_next/static/css/0ca354f577d1bd26.css","style"]
 :HL["/hubitos-home-preview/fonts/manrope/manrope-latin-wght-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"zh-Hant","h":112,"c":"$Q2"}]]
-0:{"b":"uBWkU_a1Ivgt0Ob2f1e8i","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"zOI_vzCkPX306mqxKD6TI","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

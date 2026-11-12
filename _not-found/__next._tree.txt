@@ -5,4 +5,4 @@
 :HL["/hubitos-home-preview/fonts/manrope/manrope-latin-wght-normal.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"uBWkU_a1Ivgt0Ob2f1e8i","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"zOI_vzCkPX306mqxKD6TI","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
